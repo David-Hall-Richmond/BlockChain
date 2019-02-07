@@ -2,6 +2,39 @@ const SHA256 = require('crypto-js/sha256');
 const NodeRSA = require('node-rsa');
 const fs = require('fs');
 
+/*
+Algo for mining:
+1st:
+create 3 miners, one for each difficulty
+
+1) Code calls generateTransactions for each miner. This will create the chains.
+2) Merchant adds transactions with Miner
+3) Miner adds transactions to a transaction queue
+4) Miner takes next transaction, creates a block with it, and then assigns the nonce with mineBlock()
+    -repeat until no more transactions left in queue
+    -this will be done once for each difficulty, 0,5,10
+    getNonce(block){
+        let nonce = 0;
+        let blockFieldString = create cat of fields 1-7 of block
+        let diffCheck = cat of x 0's with x =block.difficulty
+        block.mineStart = get the current clockTime
+        for(nonce;i<Number.MAX_SAFE_INTEGER;nonce){
+            let stringToHash = cat of block.previousblockhash+nonce+blockFieldString
+            let hashedBlock=SHA256(stringToHash)
+            if(substring of hashedBlockString(0 to block.difficulty) == diffCheck)
+                block.mineEnd = get current clockTime
+                return nonce;
+        }
+        console.log("Couldn't find nonce, if this prints its a bad thing")
+    }
+5) Call a printMiningStats(miner) method for each miner
+    -loop through each block and print:
+        -the difficulty for the miner 
+        -the block sequence number
+        -the nonce
+        -calculate the time it took to mine and print
+
+*/
 const file = fs.createWriteStream('./blockchain_output.txt');
 class Block{
     constructor(trans, sequenceNum, prevBlock){
@@ -14,6 +47,9 @@ class Block{
                 this.previousHash = 0;
             }
             this.minerSig = '';
+            this.nonce = 0;
+            this.mineStart = 0;
+            this.mineEnd = 0;
 
         //console.log(JSON.stringify(this,null,4));
     }
@@ -26,9 +62,10 @@ class Block{
 }
 
 class Miner{
-    constructor(){
+    constructor(diff){
         this.key = new NodeRSA({b: 512});
         this.chain = [this.createGenesisBlock()];
+        this.difficulty = diff;
     }
 
     createGenesisBlock(){
