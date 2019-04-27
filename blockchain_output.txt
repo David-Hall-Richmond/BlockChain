@@ -1,614 +1,75 @@
-Printing all transactions.........................................
-Transaction number: 1
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKw15MohWs0iOGM/hRV/IKOUCzKAAe5k
-WE4T/k98lripyo+KjXdjjvueYkEvxXWsVALB1iXi0Il4IFYv+0ZF5zsCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKZU/GdBLcgNBN713Zo4NoPdH6Y54u+U
-v5wQbDMXOTwwKMMWdCNqlL8+WTnwI2R/ytL5WtPW1741rTYklk3Zt8ECAwEAAQ==
------END PUBLIC KEY-----
-Date: 6/21/1970
-Amount: 402.05
-Transaction number: 2
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANQChK3DZHI1pNGiUydVBJLOXJLColpD
-+rwWlKEe/RWUTcvweqtfUD9GhkJC15CO5kezIvACpupa0OZtIGyihmkCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 7/25/1976
-Amount: 110.26
-Transaction number: 3
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ2zK3PIZTL3dgMRBTCvs/y0cKkTerE/
-Kck6CR1QAKJAw/UnNN5gIb9jo8OMIDQbOxKzJqhyzSMYINLSnHaUpO0CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 10/26/2014
-Amount: 539.38
-Transaction number: 4
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIiMk8Wf91InsfLtt86C2C7mHRtb8TJG
-iNpWXlAtc+Vj4hOmp2lOt5quj/L9+AS2BHJkz9fIjKkXcZa37LoEB60CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 2/7/2018
-Amount: 449.99
-Transaction number: 5
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYsgXGbAEQXwqwgO7+Z01xdrSNE9xYA
-L9ZF3d7FLZ2LTMn0zmEwLNbAsCPGJrhVu8lxsEpQbeTp02qDmMRjC0ECAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 2/26/1998
-Amount: 982.56
-Transaction number: 6
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKw15MohWs0iOGM/hRV/IKOUCzKAAe5k
-WE4T/k98lripyo+KjXdjjvueYkEvxXWsVALB1iXi0Il4IFYv+0ZF5zsCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 5/12/1997
-Amount: 154.09
-Transaction number: 7
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANQChK3DZHI1pNGiUydVBJLOXJLColpD
-+rwWlKEe/RWUTcvweqtfUD9GhkJC15CO5kezIvACpupa0OZtIGyihmkCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 8/10/2008
-Amount: 81.83
-Transaction number: 8
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ2zK3PIZTL3dgMRBTCvs/y0cKkTerE/
-Kck6CR1QAKJAw/UnNN5gIb9jo8OMIDQbOxKzJqhyzSMYINLSnHaUpO0CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKZU/GdBLcgNBN713Zo4NoPdH6Y54u+U
-v5wQbDMXOTwwKMMWdCNqlL8+WTnwI2R/ytL5WtPW1741rTYklk3Zt8ECAwEAAQ==
------END PUBLIC KEY-----
-Date: 11/18/2012
-Amount: 849.89
-Transaction number: 9
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIiMk8Wf91InsfLtt86C2C7mHRtb8TJG
-iNpWXlAtc+Vj4hOmp2lOt5quj/L9+AS2BHJkz9fIjKkXcZa37LoEB60CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 5/31/2010
-Amount: 372.19
-Transaction number: 10
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYsgXGbAEQXwqwgO7+Z01xdrSNE9xYA
-L9ZF3d7FLZ2LTMn0zmEwLNbAsCPGJrhVu8lxsEpQbeTp02qDmMRjC0ECAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 10/10/1999
-Amount: 9.22
-Transaction number: 11
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKw15MohWs0iOGM/hRV/IKOUCzKAAe5k
-WE4T/k98lripyo+KjXdjjvueYkEvxXWsVALB1iXi0Il4IFYv+0ZF5zsCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKZU/GdBLcgNBN713Zo4NoPdH6Y54u+U
-v5wQbDMXOTwwKMMWdCNqlL8+WTnwI2R/ytL5WtPW1741rTYklk3Zt8ECAwEAAQ==
------END PUBLIC KEY-----
-Date: 11/3/1960
-Amount: 269.97
-Transaction number: 12
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANQChK3DZHI1pNGiUydVBJLOXJLColpD
-+rwWlKEe/RWUTcvweqtfUD9GhkJC15CO5kezIvACpupa0OZtIGyihmkCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 4/20/1998
-Amount: 746.97
-Transaction number: 13
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ2zK3PIZTL3dgMRBTCvs/y0cKkTerE/
-Kck6CR1QAKJAw/UnNN5gIb9jo8OMIDQbOxKzJqhyzSMYINLSnHaUpO0CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 11/11/2015
-Amount: 884.36
-Transaction number: 14
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIiMk8Wf91InsfLtt86C2C7mHRtb8TJG
-iNpWXlAtc+Vj4hOmp2lOt5quj/L9+AS2BHJkz9fIjKkXcZa37LoEB60CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 2/10/1954
-Amount: 337.57
-Transaction number: 15
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYsgXGbAEQXwqwgO7+Z01xdrSNE9xYA
-L9ZF3d7FLZ2LTMn0zmEwLNbAsCPGJrhVu8lxsEpQbeTp02qDmMRjC0ECAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 3/12/1992
-Amount: 801.54
-Transaction number: 16
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKw15MohWs0iOGM/hRV/IKOUCzKAAe5k
-WE4T/k98lripyo+KjXdjjvueYkEvxXWsVALB1iXi0Il4IFYv+0ZF5zsCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 6/5/1971
-Amount: 136.00
-Transaction number: 17
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANQChK3DZHI1pNGiUydVBJLOXJLColpD
-+rwWlKEe/RWUTcvweqtfUD9GhkJC15CO5kezIvACpupa0OZtIGyihmkCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 4/24/1954
-Amount: 871.67
-Transaction number: 18
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ2zK3PIZTL3dgMRBTCvs/y0cKkTerE/
-Kck6CR1QAKJAw/UnNN5gIb9jo8OMIDQbOxKzJqhyzSMYINLSnHaUpO0CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKZU/GdBLcgNBN713Zo4NoPdH6Y54u+U
-v5wQbDMXOTwwKMMWdCNqlL8+WTnwI2R/ytL5WtPW1741rTYklk3Zt8ECAwEAAQ==
------END PUBLIC KEY-----
-Date: 2/30/1952
-Amount: 910.91
-Transaction number: 19
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIiMk8Wf91InsfLtt86C2C7mHRtb8TJG
-iNpWXlAtc+Vj4hOmp2lOt5quj/L9+AS2BHJkz9fIjKkXcZa37LoEB60CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 5/3/1956
-Amount: 290.51
-Transaction number: 20
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYsgXGbAEQXwqwgO7+Z01xdrSNE9xYA
-L9ZF3d7FLZ2LTMn0zmEwLNbAsCPGJrhVu8lxsEpQbeTp02qDmMRjC0ECAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 1/1/1981
-Amount: 609.73
-Transaction number: 21
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKw15MohWs0iOGM/hRV/IKOUCzKAAe5k
-WE4T/k98lripyo+KjXdjjvueYkEvxXWsVALB1iXi0Il4IFYv+0ZF5zsCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKZU/GdBLcgNBN713Zo4NoPdH6Y54u+U
-v5wQbDMXOTwwKMMWdCNqlL8+WTnwI2R/ytL5WtPW1741rTYklk3Zt8ECAwEAAQ==
------END PUBLIC KEY-----
-Date: 10/24/1976
-Amount: 884.01
-Transaction number: 22
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANQChK3DZHI1pNGiUydVBJLOXJLColpD
-+rwWlKEe/RWUTcvweqtfUD9GhkJC15CO5kezIvACpupa0OZtIGyihmkCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKZU/GdBLcgNBN713Zo4NoPdH6Y54u+U
-v5wQbDMXOTwwKMMWdCNqlL8+WTnwI2R/ytL5WtPW1741rTYklk3Zt8ECAwEAAQ==
------END PUBLIC KEY-----
-Date: 7/12/1974
-Amount: 950.07
-Transaction number: 23
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ2zK3PIZTL3dgMRBTCvs/y0cKkTerE/
-Kck6CR1QAKJAw/UnNN5gIb9jo8OMIDQbOxKzJqhyzSMYINLSnHaUpO0CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKZU/GdBLcgNBN713Zo4NoPdH6Y54u+U
-v5wQbDMXOTwwKMMWdCNqlL8+WTnwI2R/ytL5WtPW1741rTYklk3Zt8ECAwEAAQ==
------END PUBLIC KEY-----
-Date: 2/9/1975
-Amount: 30.19
-Transaction number: 24
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIiMk8Wf91InsfLtt86C2C7mHRtb8TJG
-iNpWXlAtc+Vj4hOmp2lOt5quj/L9+AS2BHJkz9fIjKkXcZa37LoEB60CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKZU/GdBLcgNBN713Zo4NoPdH6Y54u+U
-v5wQbDMXOTwwKMMWdCNqlL8+WTnwI2R/ytL5WtPW1741rTYklk3Zt8ECAwEAAQ==
------END PUBLIC KEY-----
-Date: 5/15/1998
-Amount: 866.31
-Transaction number: 25
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYsgXGbAEQXwqwgO7+Z01xdrSNE9xYA
-L9ZF3d7FLZ2LTMn0zmEwLNbAsCPGJrhVu8lxsEpQbeTp02qDmMRjC0ECAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKZU/GdBLcgNBN713Zo4NoPdH6Y54u+U
-v5wQbDMXOTwwKMMWdCNqlL8+WTnwI2R/ytL5WtPW1741rTYklk3Zt8ECAwEAAQ==
------END PUBLIC KEY-----
-Date: 8/27/1979
-Amount: 779.32
---------------------------------------------------------------------------------------------------------
-Printing by customer.........................................
-Transaction number: 3
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ2zK3PIZTL3dgMRBTCvs/y0cKkTerE/
-Kck6CR1QAKJAw/UnNN5gIb9jo8OMIDQbOxKzJqhyzSMYINLSnHaUpO0CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 10/26/2014
-Amount: 539.38
-Transaction number: 8
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ2zK3PIZTL3dgMRBTCvs/y0cKkTerE/
-Kck6CR1QAKJAw/UnNN5gIb9jo8OMIDQbOxKzJqhyzSMYINLSnHaUpO0CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKZU/GdBLcgNBN713Zo4NoPdH6Y54u+U
-v5wQbDMXOTwwKMMWdCNqlL8+WTnwI2R/ytL5WtPW1741rTYklk3Zt8ECAwEAAQ==
------END PUBLIC KEY-----
-Date: 11/18/2012
-Amount: 849.89
-Transaction number: 13
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ2zK3PIZTL3dgMRBTCvs/y0cKkTerE/
-Kck6CR1QAKJAw/UnNN5gIb9jo8OMIDQbOxKzJqhyzSMYINLSnHaUpO0CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 11/11/2015
-Amount: 884.36
-Transaction number: 18
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ2zK3PIZTL3dgMRBTCvs/y0cKkTerE/
-Kck6CR1QAKJAw/UnNN5gIb9jo8OMIDQbOxKzJqhyzSMYINLSnHaUpO0CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKZU/GdBLcgNBN713Zo4NoPdH6Y54u+U
-v5wQbDMXOTwwKMMWdCNqlL8+WTnwI2R/ytL5WtPW1741rTYklk3Zt8ECAwEAAQ==
------END PUBLIC KEY-----
-Date: 2/30/1952
-Amount: 910.91
-Transaction number: 23
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ2zK3PIZTL3dgMRBTCvs/y0cKkTerE/
-Kck6CR1QAKJAw/UnNN5gIb9jo8OMIDQbOxKzJqhyzSMYINLSnHaUpO0CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKZU/GdBLcgNBN713Zo4NoPdH6Y54u+U
-v5wQbDMXOTwwKMMWdCNqlL8+WTnwI2R/ytL5WtPW1741rTYklk3Zt8ECAwEAAQ==
------END PUBLIC KEY-----
-Date: 2/9/1975
-Amount: 30.19
---------------------------------------------------------------------------------------------------------
-Printing by merchant.........................................
-Transaction number: 2
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANQChK3DZHI1pNGiUydVBJLOXJLColpD
-+rwWlKEe/RWUTcvweqtfUD9GhkJC15CO5kezIvACpupa0OZtIGyihmkCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 7/25/1976
-Amount: 110.26
-Transaction number: 3
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ2zK3PIZTL3dgMRBTCvs/y0cKkTerE/
-Kck6CR1QAKJAw/UnNN5gIb9jo8OMIDQbOxKzJqhyzSMYINLSnHaUpO0CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 10/26/2014
-Amount: 539.38
-Transaction number: 4
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIiMk8Wf91InsfLtt86C2C7mHRtb8TJG
-iNpWXlAtc+Vj4hOmp2lOt5quj/L9+AS2BHJkz9fIjKkXcZa37LoEB60CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 2/7/2018
-Amount: 449.99
-Transaction number: 5
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYsgXGbAEQXwqwgO7+Z01xdrSNE9xYA
-L9ZF3d7FLZ2LTMn0zmEwLNbAsCPGJrhVu8lxsEpQbeTp02qDmMRjC0ECAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 2/26/1998
-Amount: 982.56
-Transaction number: 6
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKw15MohWs0iOGM/hRV/IKOUCzKAAe5k
-WE4T/k98lripyo+KjXdjjvueYkEvxXWsVALB1iXi0Il4IFYv+0ZF5zsCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 5/12/1997
-Amount: 154.09
-Transaction number: 7
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANQChK3DZHI1pNGiUydVBJLOXJLColpD
-+rwWlKEe/RWUTcvweqtfUD9GhkJC15CO5kezIvACpupa0OZtIGyihmkCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 8/10/2008
-Amount: 81.83
-Transaction number: 9
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIiMk8Wf91InsfLtt86C2C7mHRtb8TJG
-iNpWXlAtc+Vj4hOmp2lOt5quj/L9+AS2BHJkz9fIjKkXcZa37LoEB60CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 5/31/2010
-Amount: 372.19
-Transaction number: 10
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYsgXGbAEQXwqwgO7+Z01xdrSNE9xYA
-L9ZF3d7FLZ2LTMn0zmEwLNbAsCPGJrhVu8lxsEpQbeTp02qDmMRjC0ECAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 10/10/1999
-Amount: 9.22
-Transaction number: 12
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANQChK3DZHI1pNGiUydVBJLOXJLColpD
-+rwWlKEe/RWUTcvweqtfUD9GhkJC15CO5kezIvACpupa0OZtIGyihmkCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 4/20/1998
-Amount: 746.97
-Transaction number: 13
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ2zK3PIZTL3dgMRBTCvs/y0cKkTerE/
-Kck6CR1QAKJAw/UnNN5gIb9jo8OMIDQbOxKzJqhyzSMYINLSnHaUpO0CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 11/11/2015
-Amount: 884.36
-Transaction number: 14
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIiMk8Wf91InsfLtt86C2C7mHRtb8TJG
-iNpWXlAtc+Vj4hOmp2lOt5quj/L9+AS2BHJkz9fIjKkXcZa37LoEB60CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 2/10/1954
-Amount: 337.57
-Transaction number: 15
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYsgXGbAEQXwqwgO7+Z01xdrSNE9xYA
-L9ZF3d7FLZ2LTMn0zmEwLNbAsCPGJrhVu8lxsEpQbeTp02qDmMRjC0ECAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 3/12/1992
-Amount: 801.54
-Transaction number: 16
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKw15MohWs0iOGM/hRV/IKOUCzKAAe5k
-WE4T/k98lripyo+KjXdjjvueYkEvxXWsVALB1iXi0Il4IFYv+0ZF5zsCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 6/5/1971
-Amount: 136.00
-Transaction number: 17
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANQChK3DZHI1pNGiUydVBJLOXJLColpD
-+rwWlKEe/RWUTcvweqtfUD9GhkJC15CO5kezIvACpupa0OZtIGyihmkCAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 4/24/1954
-Amount: 871.67
-Transaction number: 19
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIiMk8Wf91InsfLtt86C2C7mHRtb8TJG
-iNpWXlAtc+Vj4hOmp2lOt5quj/L9+AS2BHJkz9fIjKkXcZa37LoEB60CAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 5/3/1956
-Amount: 290.51
-Transaction number: 20
-Customer public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYsgXGbAEQXwqwgO7+Z01xdrSNE9xYA
-L9ZF3d7FLZ2LTMn0zmEwLNbAsCPGJrhVu8lxsEpQbeTp02qDmMRjC0ECAwEAAQ==
------END PUBLIC KEY-----
-Merchant public key:
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIYjwaYHKUqJxN8yXJu2F4x0PQQ0Zehz
-9xrtSX8K7QoUTM8pHTfGxGCNYvvRUiq3gBxu3hWWT2KuIK1YwVY3mSsCAwEAAQ==
------END PUBLIC KEY-----
-Date: 1/1/1981
-Amount: 609.73
---------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------
-Verifying the chain has not been tampered with: 
-The chain is unaltered--------------------------------------------------------------------------------------------------------
-Altering the chain...
-Verifying the chain has been tampered with: 
-............Failed checking current block previous hash against last block hash..............
-9ed4b598c5c5d8bd7333806f2b263252396062749eb78160efa60283c0ebd300
-81e9fadc5b6c97a3e0f001c36c9f5415f0bc9069de574a1b5195b7c862411a45
-Transaction 15 has been altered
-The chain has been altered
+Case: 0 Block Number: 1 Nonces Attempted: 0 Computation Time: 4
+Case: 0 Block Number: 2 Nonces Attempted: 0 Computation Time: 1
+Case: 0 Block Number: 3 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 4 Nonces Attempted: 0 Computation Time: 1
+Case: 0 Block Number: 5 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 6 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 7 Nonces Attempted: 0 Computation Time: 1
+Case: 0 Block Number: 8 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 9 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 10 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 11 Nonces Attempted: 0 Computation Time: 1
+Case: 0 Block Number: 12 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 13 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 14 Nonces Attempted: 0 Computation Time: 1
+Case: 0 Block Number: 15 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 16 Nonces Attempted: 0 Computation Time: 1
+Case: 0 Block Number: 17 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 18 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 19 Nonces Attempted: 0 Computation Time: 1
+Case: 0 Block Number: 20 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 21 Nonces Attempted: 0 Computation Time: 1
+Case: 0 Block Number: 22 Nonces Attempted: 0 Computation Time: 1
+Case: 0 Block Number: 23 Nonces Attempted: 0 Computation Time: 1
+Case: 0 Block Number: 24 Nonces Attempted: 0 Computation Time: 0
+Case: 0 Block Number: 25 Nonces Attempted: 0 Computation Time: 3
+Case: 5 Block Number: 1 Nonces Attempted: 140582 Computation Time: 2800
+Case: 5 Block Number: 2 Nonces Attempted: 331102 Computation Time: 6692
+Case: 5 Block Number: 3 Nonces Attempted: 765971 Computation Time: 16261
+Case: 5 Block Number: 4 Nonces Attempted: 882695 Computation Time: 18085
+Case: 5 Block Number: 5 Nonces Attempted: 13805 Computation Time: 281
+Case: 5 Block Number: 6 Nonces Attempted: 4129623 Computation Time: 89625
+Case: 5 Block Number: 7 Nonces Attempted: 988914 Computation Time: 18786
+Case: 5 Block Number: 8 Nonces Attempted: 612810 Computation Time: 11496
+Case: 5 Block Number: 9 Nonces Attempted: 1888492 Computation Time: 41493
+Case: 5 Block Number: 10 Nonces Attempted: 414936 Computation Time: 10253
+Case: 5 Block Number: 11 Nonces Attempted: 859631 Computation Time: 20151
+Case: 5 Block Number: 12 Nonces Attempted: 702450 Computation Time: 17206
+Case: 5 Block Number: 13 Nonces Attempted: 624210 Computation Time: 13591
+Case: 5 Block Number: 14 Nonces Attempted: 2596143 Computation Time: 58105
+Case: 5 Block Number: 15 Nonces Attempted: 1161188 Computation Time: 28619
+Case: 5 Block Number: 16 Nonces Attempted: 658947 Computation Time: 13418
+Case: 5 Block Number: 17 Nonces Attempted: 947034 Computation Time: 22272
+Case: 5 Block Number: 18 Nonces Attempted: 700045 Computation Time: 15082
+Case: 5 Block Number: 19 Nonces Attempted: 914612 Computation Time: 20592
+Case: 5 Block Number: 20 Nonces Attempted: 12721 Computation Time: 233
+Case: 5 Block Number: 21 Nonces Attempted: 470586 Computation Time: 10183
+Case: 5 Block Number: 22 Nonces Attempted: 1378076 Computation Time: 31210
+Case: 5 Block Number: 23 Nonces Attempted: 1616068 Computation Time: 33254
+Case: 5 Block Number: 24 Nonces Attempted: 636113 Computation Time: 13486
+Case: 5 Block Number: 25 Nonces Attempted: 179770 Computation Time: 3739
+Case: 6 Block Number: 1 Nonces Attempted: 398975 Computation Time: 7438
+Case: 6 Block Number: 2 Nonces Attempted: 22369424 Computation Time: 502471
+Case: 6 Block Number: 3 Nonces Attempted: 15364240 Computation Time: 326832
+Case: 6 Block Number: 4 Nonces Attempted: 15859068 Computation Time: 310982
+Case: 6 Block Number: 5 Nonces Attempted: 34930586 Computation Time: 705512
+Case: 6 Block Number: 6 Nonces Attempted: 3660821 Computation Time: 70347
+Case: 6 Block Number: 7 Nonces Attempted: 15249919 Computation Time: 321582
+Case: 6 Block Number: 8 Nonces Attempted: 9051428 Computation Time: 176457
+Case: 6 Block Number: 9 Nonces Attempted: 1474151 Computation Time: 28215
+Case: 6 Block Number: 10 Nonces Attempted: 1270321 Computation Time: 24127
+Case: 6 Block Number: 11 Nonces Attempted: 11341981 Computation Time: 221234
+Case: 6 Block Number: 12 Nonces Attempted: 496793 Computation Time: 9526
+Case: 6 Block Number: 13 Nonces Attempted: 1343196 Computation Time: 26161
+Case: 6 Block Number: 14 Nonces Attempted: 15170346 Computation Time: 321318
+Case: 6 Block Number: 15 Nonces Attempted: 29897143 Computation Time: 589045
+Case: 6 Block Number: 16 Nonces Attempted: 38318561 Computation Time: 737027
+Case: 6 Block Number: 17 Nonces Attempted: 1674723 Computation Time: 30642
+Case: 6 Block Number: 18 Nonces Attempted: 41758439 Computation Time: 795066
+Case: 6 Block Number: 19 Nonces Attempted: 14945848 Computation Time: 274792
+Case: 6 Block Number: 20 Nonces Attempted: 24448943 Computation Time: 482194
+Case: 6 Block Number: 21 Nonces Attempted: 39203297 Computation Time: 830835
+Case: 6 Block Number: 22 Nonces Attempted: 12246220 Computation Time: 233701
+Case: 6 Block Number: 23 Nonces Attempted: 21193836 Computation Time: 401078
+Case: 6 Block Number: 24 Nonces Attempted: 64969578 Computation Time: 1259665
+Case: 6 Block Number: 25 Nonces Attempted: 64222163 Computation Time: 1220258

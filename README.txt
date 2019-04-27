@@ -1,20 +1,16 @@
-David Hall CS764 HW 3 2/4/2019
-READ.ME
-Description
-The following program is intended to be an implementation of a basic blockchain. All transactions are generated
-randomly, with 5 per customer and randomly assigned merchants and values.
+ReadMe for Homework 6
 
-Input
-The program is not intended to take an input, it should be considered as a simulation
+Contents:
+HW6.pdf - Contains the solutions to the homework problems including diagrams
+hasher.js - Simple code to convert a text string representing hex values to their ascii
+			equivalents, then pass to the keccak256 hash function.
+README.txt
 
-Output
-There are 4 distinct outputs:
-1) A list of all transactions, including the 1st 4 fields for each one.
-2) A list of the transactions for a single customer
-3) A list of the transactions for a single merchant
-4) A demonstration that the block chain can detect tampering. One transaction will have its value manually altered
-and it will demonstrate a before and after indication of this.
-
-Execution information:
-The program is written in JavaScript using Node.JS. On a system with Node installed, unzip the contents of the zip file
-into an empty directory. Type 'npm install' <enter>. The program can then be run by entering './node main.js.'
+Instructions to run hasher.js
+1) Must have node.js installed on local machine with execution path set
+2) type 'npm install keccak256' <enter> then 'npm install hex2ascii' <enter>, to install necessary dependencies
+2) Open contents of zip file into current directory
+3) Open hasher.js in a text editor
+4) Set hex string that you wish to hash as the value for the 'hexString' variable
+5) Save the file
+6) run 'node hasher.js', which will print the result of the hash
